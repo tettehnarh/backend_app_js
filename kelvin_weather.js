@@ -18,5 +18,6 @@ let newton = celsius * (33 / 100);
 
 // Round down the Newton result
 newton = Math.floor(newton);
+
 // Display result of Celsius -> Newton
 console.log(`The temperature is ${newton} degrees Celsius.`);
